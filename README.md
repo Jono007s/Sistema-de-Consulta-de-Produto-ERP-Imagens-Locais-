@@ -23,14 +23,6 @@ Aplicação web para **pesquisa de produtos** por **código** integrada ao **SQL
 ## 🧱 Tecnologias
 Python (Flask), SQL Server (PyODBC), HTML, CSS, JS
 
-## 🚀 Setup rápido
-```bash
-git clone <repo> && cd <repo>
-python -m venv venv && venv\Scripts\activate
-pip install -r requirements.txt
-python app/main.py
-```
-
 ## 📂 Estrutura
 ```
 /app
